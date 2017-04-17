@@ -1,0 +1,33 @@
+/* add your CSS here */
+body{
+ font-size:10px;
+ padding-left: 500px;
+ padding-right: 300px;
+ padding-top: 100px;
+ padding-bottom: 100px;
+}
+
+.container{
+    width: 320px;
+    height:450px;
+    box-shadow: 5px 5px 5px #888888;
+    border: 1px solid black;
+
+}
+.container img, .container div {
+    margin-left:10px;
+    margin-right: 10px;
+}
+h1 {
+    padding-top: 20px;
+
+}
+li span{
+    font-weight: bold;
+    }
+
+.box{
+    border: 1px solid ;
+    padding: 5px;
+    margin: 5px;
+}
